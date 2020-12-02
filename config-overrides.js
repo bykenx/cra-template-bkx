@@ -12,7 +12,7 @@ const {
  * @see https://github.com/arackaf/customize-cra/blob/HEAD/api.md
  */
 
-// 以下为使用 babel-import-plugin减少 material-ui/core 打包尺寸的使用
+// 以下为使用 babel-plugin-import 减少 material-ui/core 打包尺寸的使用
 // fixBabelImports('@material-ui/core', {
 //   'libraryDirectory': 'esm',
 //   'camel2DashComponentName': false
