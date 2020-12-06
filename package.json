@@ -1,39 +1,16 @@
 {
-  "name": "my-template-app",
+  "name": "cra-template-rewired",
   "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "babel-plugin-import": "^1.13.1",
-    "classnames": "^2.2.6",
-    "customize-cra": "^1.0.0",
-    "http-proxy-middleware": "^1.0.6",
-    "node-sass": "^5.0.0",
-    "react": "^17.0.1",
-    "react-app-rewired": "^2.1.6",
-    "react-dom": "^17.0.1",
-    "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.0"
-  },
-  "scripts": {
-    "start": "react-app-rewired start",
-    "build": "react-app-rewired build"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "Self-use cra template.",
+  "main": "template.json",
+  "license": "MIT",
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
