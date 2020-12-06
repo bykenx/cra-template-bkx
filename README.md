@@ -4,6 +4,11 @@
 
 This is my self-use template for [Create React App](https://github.com/facebook/create-react-app) based on [cra-template](https://github.com/facebook/create-react-app/tree/master/packages/cra-template).
 
+Usage
+```bash
+npx create-react-app my-app --template bkx
+```
+
 For more information, please refer to:
 
 - [Getting Started](https://create-react-app.dev/docs/getting-started) – How to create a new app.
